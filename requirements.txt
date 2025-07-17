@@ -1,0 +1,15 @@
+langchain
+transformers
+huggingface_hub
+openai
+pydantic
+python-dotenv
+typer
+fastapi
+uvicorn
+streamlit
+openapi-python-client
+grpcio
+grpcio-tools
+faiss-cpu
+tiktoken

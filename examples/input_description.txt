@@ -1,0 +1,1 @@
+Design a REST API to manage user profiles and accounts. It should support registration, login, password reset, and updating profile fields. Use JWT for authentication.
